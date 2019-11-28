@@ -1,0 +1,7 @@
+---
+applications:
+  - name: job-board-config
+    instances: 1
+    memory: 1G
+    env:
+      SPRING_PROFILES_ACTIVE: production
