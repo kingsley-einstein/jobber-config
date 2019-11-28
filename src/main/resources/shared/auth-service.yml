@@ -1,0 +1,9 @@
+
+eureka:
+  instance:
+    app: auth-service
+    hostName: localhost
+    vipAddress: com.auth-service
+    statusPageUrl: /
+  host: localhost
+  port: 9066
